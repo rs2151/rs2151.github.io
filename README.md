@@ -32,6 +32,12 @@
 
 ---
 
+### Sync the code github main branch
+
+- git status
+- git add .
+- commit the changes from VS code.
+
 ### How to Deploy the webiste on github
 
 - mkdocs gh-deploy
