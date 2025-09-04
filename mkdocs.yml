@@ -1,4 +1,3 @@
-# Project information
 site_name: Ram Sharma 
 site_url: https://rs2151.github.io/
 site_author: Ram Sharma
@@ -79,17 +78,16 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
+      link: https://github.com/rs2151
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
-    - icon: fontawesome/brands/bluesky
-      link: https://bsky.app/profile/squidfunk.bsky.social
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/squidfunk
+      link: https://hub.docker.com/repositories/sharmaji2151
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/ramsharma-tech
+    - icon: material/file-document-multiple-outline
+      link: https://github.com/rs2151/rsdocs.git
+    - icon: material/web
+      link: https://rs2151.github.io/
+    
 
 extra_css:
   - stylesheets/extra.css
@@ -162,5 +160,7 @@ nav:
   - Publications: publications.md
   - Projects: projects.md
   - Repostiories: repositories.md
+  - Gallery: gallery.md
   - CV: cv.md
+  - Contact Us: contact_us.md
 

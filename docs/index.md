@@ -6,6 +6,10 @@ hide:
 
 # Welcome to [Ram's Home Page](https://rs2151.github.io/)
 
+<!-- <figure markdown="span">
+    ![EGO 4D](/assets/ram-cvit-480.webp){ align=center }
+</figure> -->
+
 I am a Web developer at [Centre for Visual Information Technology (CVIT), IIIT Hyderabad](http://cvit.iiit.ac.in/) I am working under Professor [Prof. C V Jawahar](https://faculty.iiit.ac.in/~jawahar/) and [IHub Data Foundation](https://ihub-data.iiit.ac.in/) (IIITH IHub Data Foundation).
 
 My primary area of interest is in DevOps Engineer , Website Development to design the creative website. Specifically, I am interested in Full Stack Developer.
